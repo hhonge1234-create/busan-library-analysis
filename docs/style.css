@@ -291,3 +291,14 @@ table.mock { width: 100%; border-collapse: collapse; font-size: 17px; }
 .closing .shelf2 { position: absolute; right: 80px; bottom: 90px; width: 640px; height: auto; }
 .closing .sum, .closing .qa, .closing .links { max-width: 760px; }
 .cards3 .card .icon { width: 64px; height: 64px; }
+
+/* ---------- 7. 데이터 출처 흐름 ---------- */
+.head-tight { margin-bottom: 26px; }
+.source { display: grid; grid-template-columns: 1fr 36px 1fr 36px 1fr 36px 1fr; align-items: stretch; margin-bottom: 30px; }
+.src-step { background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 16px 20px; display: flex; flex-direction: column; gap: 4px; }
+.src-step b { font-size: 23px; }
+.src-step em { font-size: 15px; color: var(--muted); }
+.src-k { font-size: 13px; font-weight: 700; letter-spacing: .06em; color: var(--blue); }
+.src-step.hl-step { background: var(--blue-l); border-color: transparent; }
+.src-step.hl-step b { color: var(--blue-d); }
+.src-arr { align-self: center; text-align: center; font-size: 24px; color: var(--muted); }

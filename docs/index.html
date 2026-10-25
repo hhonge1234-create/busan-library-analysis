@@ -46,7 +46,7 @@
       <p class="hook-lead rise">부산도서관 장서 <b>659,791</b>권 중</p>
       <p class="hook-num rise"><span class="count" data-to="449624">0</span><small>권</small></p>
       <p class="hook-lead rise">은 <b class="orange">한 번도 대출되지 않았습니다.</b></p>
-      <p class="hook-note rise">개관(2020년 11월) 이후 누적 기준 · 2026년 9월 데이터</p>
+      <p class="hook-note rise">출처: 도서관 정보나루 부산도서관 장서/대출 데이터 (2026년 9월 기준) · 개관(2020년 11월) 이후 누적</p>
     </div>
     <div class="waffle-wrap rise">
       <div class="waffle" id="waffle"></div>
@@ -100,7 +100,16 @@
 
 <!-- ============ 7. 데이터 소개 ============ -->
 <section class="slide" data-anim="default">
-  <header class="head"><p class="eyebrow rise">Ⅱ · 데이터</p><h2 class="rise">부산도서관 장서 대출목록 (2026년 9월)</h2></header>
+  <header class="head head-tight"><p class="eyebrow rise">Ⅱ · 데이터</p><h2 class="rise">어떤 데이터로 분석하나</h2></header>
+  <div class="source">
+    <div class="src-step pop"><span class="src-k">출처</span><b>도서관 정보나루</b><em>data4library.kr · 국립중앙도서관 운영</em></div>
+    <span class="src-arr fade-late">→</span>
+    <div class="src-step pop"><span class="src-k">도서관</span><b>부산도서관</b><em>부산광역시 대표도서관 · 2020.11 개관</em></div>
+    <span class="src-arr fade-late">→</span>
+    <div class="src-step pop"><span class="src-k">데이터셋</span><b>장서/대출 데이터</b><em>2026년 9월 기준 공개분</em></div>
+    <span class="src-arr fade-late">→</span>
+    <div class="src-step pop hl-step"><span class="src-k">파일</span><b>CSV 659,791행</b><em>1행 = 장서 1권 · 13개 컬럼</em></div>
+  </div>
   <div class="data-grid">
     <div class="kpis">
       <div class="kpi rise"><span class="count" data-to="659791">0</span><small>권</small><p>장서 (1행 = 1권)</p></div>
@@ -371,7 +380,7 @@
 <section class="slide" data-anim="default">
   <header class="head"><p class="eyebrow rise">Ⅲ · 한계와 보완</p><h2 class="rise">알고 시작하는 한계</h2></header>
   <div class="limits">
-    <div class="lim-row rise"><div class="lim">대출건수가 누적값 → 월별 추이·계절성을 볼 수 없음</div><span class="arr">→</span><div class="fix">월평균 대출로 보정 · 다른 시점 데이터 추가 확보 검토</div></div>
+    <div class="lim-row rise"><div class="lim">대출건수가 누적값 → 월별 추이·계절성을 볼 수 없음</div><span class="arr">→</span><div class="fix">월평균 대출로 보정 · 정보나루에서 다른 월 데이터를 추가로 받아 시점 간 차이 비교 검토</div></div>
     <div class="lim-row rise"><div class="lim">이용자 정보(연령·성별) 없음</div><span class="arr">→</span><div class="fix">부가기호(이용대상)로 대리 측정</div></div>
     <div class="lim-row rise"><div class="lim">서지 결측·표기 불일치 (예: '곰탕' / '곰탕.')</div><span class="arr">→</span><div class="fix">제목 정규화 · 결측은 별도 그룹으로 분리</div></div>
     <div class="lim-row rise"><div class="lim">상관관계 ≠ 인과 (인기 책에 복본을 산다)</div><span class="arr">→</span><div class="fix">회귀로 주제·대상·신간성 통제, 해석 시 명시</div></div>
@@ -390,7 +399,7 @@
   </div>
   <p class="qa rise">감사합니다 · Q&amp;A</p>
   <svg class="shelf2 rise" id="shelf2" viewBox="0 0 900 280" aria-hidden="true"></svg>
-  <p class="links rise">분석 노트북·코드: <a href="https://github.com/hhonge1234-create/busan-library-analysis">github.com/hhonge1234-create/busan-library-analysis</a></p>
+  <p class="links rise">데이터: 도서관 정보나루(data4library.kr) 부산도서관 장서/대출 데이터 (2026년 9월)<br>분석 노트북·코드: <a href="https://github.com/hhonge1234-create/busan-library-analysis">github.com/hhonge1234-create/busan-library-analysis</a></p>
 </section>
 
 </main>
