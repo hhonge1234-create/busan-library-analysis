@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.4pt" height="446.4pt" viewBox="0 0 518.4 446.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T18:17:24.848016</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 446.4 
+L 518.4 446.4 
+L 518.4 0 
+L 0 0 
+L 0 446.4 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 68.3 417.7 
+L 426.7548 417.7 
+L 426.7548 12.96 
+L 68.3 12.96 
+L 68.3 417.7 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p233941b7a3)">
+    <image xlink:href="data:image/png;base64,
+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" id="image7d91072e97" transform="scale(1 -1) translate(0 -405.36)" x="68.3" y="-12.34" width="358.56" height="405.36"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: middle" x="104.14548" y="431.392812" transform="rotate(-0 104.14548 431.392812)">아동</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: middle" x="175.83644" y="431.392812" transform="rotate(-0 175.83644 431.392812)">청소년</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: middle" x="247.5274" y="431.392812" transform="rotate(-0 247.5274 431.392812)">교양</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: middle" x="319.21836" y="431.392812" transform="rotate(-0 319.21836 431.392812)">실용</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: middle" x="390.90932" y="431.392812" transform="rotate(-0 390.90932 431.392812)">전문</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: end" x="64.8" y="38.293406" transform="rotate(-0 64.8 38.293406)">문학</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: end" x="64.8" y="78.767406" transform="rotate(-0 64.8 78.767406)">자연과학</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: end" x="64.8" y="119.241406" transform="rotate(-0 64.8 119.241406)">기술과학</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9"/>
+     <g id="text_9">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: end" x="64.8" y="159.715406" transform="rotate(-0 64.8 159.715406)">사회과학</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10"/>
+     <g id="text_10">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: end" x="64.8" y="200.189406" transform="rotate(-0 64.8 200.189406)">역사</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_11"/>
+     <g id="text_11">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: end" x="64.8" y="240.663406" transform="rotate(-0 64.8 240.663406)">철학</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_12"/>
+     <g id="text_12">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: end" x="64.8" y="281.137406" transform="rotate(-0 64.8 281.137406)">언어</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_13"/>
+     <g id="text_13">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: end" x="64.8" y="321.611406" transform="rotate(-0 64.8 321.611406)">예술</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_14"/>
+     <g id="text_14">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: end" x="64.8" y="362.085406" transform="rotate(-0 64.8 362.085406)">종교</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_15"/>
+     <g id="text_15">
+      <text style="fill: #5b6170; font: 13px 'AppleGothic'; text-anchor: end" x="64.8" y="402.559406" transform="rotate(-0 64.8 402.559406)">총류</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_16">
+    <text style="fill: #ffffff; font: 12px 'AppleGothic'; text-anchor: middle" x="104.14548" y="36.869188" transform="rotate(-0 104.14548 36.869188)">6.6</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="175.83644" y="36.869188" transform="rotate(-0 175.83644 36.869188)">3.1</text>
+   </g>
+   <g id="text_18">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="247.5274" y="36.869188" transform="rotate(-0 247.5274 36.869188)">3.4</text>
+   </g>
+   <g id="text_19">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="319.21836" y="36.869188" transform="rotate(-0 319.21836 36.869188)">2.3</text>
+   </g>
+   <g id="text_20">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="390.90932" y="36.869188" transform="rotate(-0 390.90932 36.869188)">0.5</text>
+   </g>
+   <g id="text_21">
+    <text style="fill: #ffffff; font: 12px 'AppleGothic'; text-anchor: middle" x="104.14548" y="77.343187" transform="rotate(-0 104.14548 77.343187)">10.7</text>
+   </g>
+   <g id="text_22">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="175.83644" y="77.343187" transform="rotate(-0 175.83644 77.343187)">2.9</text>
+   </g>
+   <g id="text_23">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="247.5274" y="77.343187" transform="rotate(-0 247.5274 77.343187)">2.2</text>
+   </g>
+   <g id="text_24">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="319.21836" y="77.343187" transform="rotate(-0 319.21836 77.343187)">2.7</text>
+   </g>
+   <g id="text_25">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="390.90932" y="77.343187" transform="rotate(-0 390.90932 77.343187)">1.5</text>
+   </g>
+   <g id="text_26">
+    <text style="fill: #ffffff; font: 12px 'AppleGothic'; text-anchor: middle" x="104.14548" y="117.817187" transform="rotate(-0 104.14548 117.817187)">8.4</text>
+   </g>
+   <g id="text_27">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="175.83644" y="117.817187" transform="rotate(-0 175.83644 117.817187)">2.2</text>
+   </g>
+   <g id="text_28">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="247.5274" y="117.817187" transform="rotate(-0 247.5274 117.817187)">1.9</text>
+   </g>
+   <g id="text_29">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="319.21836" y="117.817187" transform="rotate(-0 319.21836 117.817187)">2.7</text>
+   </g>
+   <g id="text_30">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="390.90932" y="117.817187" transform="rotate(-0 390.90932 117.817187)">1.3</text>
+   </g>
+   <g id="text_31">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="104.14548" y="158.291187" transform="rotate(-0 104.14548 158.291187)">5.3</text>
+   </g>
+   <g id="text_32">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="175.83644" y="158.291187" transform="rotate(-0 175.83644 158.291187)">2.1</text>
+   </g>
+   <g id="text_33">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="247.5274" y="158.291187" transform="rotate(-0 247.5274 158.291187)">1.7</text>
+   </g>
+   <g id="text_34">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="319.21836" y="158.291187" transform="rotate(-0 319.21836 158.291187)">2.4</text>
+   </g>
+   <g id="text_35">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="390.90932" y="158.291187" transform="rotate(-0 390.90932 158.291187)">0.6</text>
+   </g>
+   <g id="text_36">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="104.14548" y="198.765187" transform="rotate(-0 104.14548 198.765187)">5.8</text>
+   </g>
+   <g id="text_37">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="175.83644" y="198.765187" transform="rotate(-0 175.83644 198.765187)">2.1</text>
+   </g>
+   <g id="text_38">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="247.5274" y="198.765187" transform="rotate(-0 247.5274 198.765187)">1.8</text>
+   </g>
+   <g id="text_39">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="319.21836" y="198.765187" transform="rotate(-0 319.21836 198.765187)">3.7</text>
+   </g>
+   <g id="text_40">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="390.90932" y="198.765187" transform="rotate(-0 390.90932 198.765187)">0.6</text>
+   </g>
+   <g id="text_41">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="104.14548" y="239.239187" transform="rotate(-0 104.14548 239.239187)">3.4</text>
+   </g>
+   <g id="text_42">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="175.83644" y="239.239187" transform="rotate(-0 175.83644 239.239187)">1.6</text>
+   </g>
+   <g id="text_43">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="247.5274" y="239.239187" transform="rotate(-0 247.5274 239.239187)">2.0</text>
+   </g>
+   <g id="text_44">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="319.21836" y="239.239187" transform="rotate(-0 319.21836 239.239187)">1.5</text>
+   </g>
+   <g id="text_45">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="390.90932" y="239.239187" transform="rotate(-0 390.90932 239.239187)">1.3</text>
+   </g>
+   <g id="text_46">
+    <text style="fill: #ffffff; font: 12px 'AppleGothic'; text-anchor: middle" x="104.14548" y="279.713188" transform="rotate(-0 104.14548 279.713188)">12.5</text>
+   </g>
+   <g id="text_47">
+    <text style="fill: #c9c3b6; font: 12px 'AppleGothic'; text-anchor: middle" x="175.83644" y="279.713188" transform="rotate(-0 175.83644 279.713188)">–</text>
+   </g>
+   <g id="text_48">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="247.5274" y="279.713188" transform="rotate(-0 247.5274 279.713188)">1.4</text>
+   </g>
+   <g id="text_49">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="319.21836" y="279.713188" transform="rotate(-0 319.21836 279.713188)">2.7</text>
+   </g>
+   <g id="text_50">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="390.90932" y="279.713188" transform="rotate(-0 390.90932 279.713188)">0.4</text>
+   </g>
+   <g id="text_51">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="104.14548" y="320.187187" transform="rotate(-0 104.14548 320.187187)">5.1</text>
+   </g>
+   <g id="text_52">
+    <text style="fill: #c9c3b6; font: 12px 'AppleGothic'; text-anchor: middle" x="175.83644" y="320.187187" transform="rotate(-0 175.83644 320.187187)">–</text>
+   </g>
+   <g id="text_53">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="247.5274" y="320.187187" transform="rotate(-0 247.5274 320.187187)">1.1</text>
+   </g>
+   <g id="text_54">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="319.21836" y="320.187187" transform="rotate(-0 319.21836 320.187187)">3.8</text>
+   </g>
+   <g id="text_55">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="390.90932" y="320.187187" transform="rotate(-0 390.90932 320.187187)">0.7</text>
+   </g>
+   <g id="text_56">
+    <text style="fill: #ffffff; font: 12px 'AppleGothic'; text-anchor: middle" x="104.14548" y="360.661187" transform="rotate(-0 104.14548 360.661187)">8.2</text>
+   </g>
+   <g id="text_57">
+    <text style="fill: #c9c3b6; font: 12px 'AppleGothic'; text-anchor: middle" x="175.83644" y="360.661187" transform="rotate(-0 175.83644 360.661187)">–</text>
+   </g>
+   <g id="text_58">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="247.5274" y="360.661187" transform="rotate(-0 247.5274 360.661187)">1.0</text>
+   </g>
+   <g id="text_59">
+    <text style="fill: #c9c3b6; font: 12px 'AppleGothic'; text-anchor: middle" x="319.21836" y="360.661187" transform="rotate(-0 319.21836 360.661187)">–</text>
+   </g>
+   <g id="text_60">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="390.90932" y="360.661187" transform="rotate(-0 390.90932 360.661187)">0.6</text>
+   </g>
+   <g id="text_61">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="104.14548" y="401.135187" transform="rotate(-0 104.14548 401.135187)">4.1</text>
+   </g>
+   <g id="text_62">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="175.83644" y="401.135187" transform="rotate(-0 175.83644 401.135187)">2.1</text>
+   </g>
+   <g id="text_63">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="247.5274" y="401.135187" transform="rotate(-0 247.5274 401.135187)">1.6</text>
+   </g>
+   <g id="text_64">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="319.21836" y="401.135187" transform="rotate(-0 319.21836 401.135187)">2.5</text>
+   </g>
+   <g id="text_65">
+    <text style="fill: #1d2433; font: 12px 'AppleGothic'; text-anchor: middle" x="390.90932" y="401.135187" transform="rotate(-0 390.90932 401.135187)">1.3</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_3">
+    <path d="M 439.869 367.1075 
+L 455.04675 367.1075 
+L 455.04675 63.5525 
+L 439.869 63.5525 
+L 439.869 367.1075 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_11">
+     <g id="line2d_16">
+      <defs>
+       <path id="ma14300a762" d="M 0 0 
+L 3.5 0 
+" style="stroke: #5b6170; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#ma14300a762" x="455.04675" y="326.752405" style="fill: #5b6170; stroke: #5b6170; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_66">
+      <text style="fill: #5b6170; font: 12px 'AppleGothic'; text-anchor: start" x="462.04675" y="331.45678" transform="rotate(-0 462.04675 331.45678)">2</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#ma14300a762" x="455.04675" y="276.804426" style="fill: #5b6170; stroke: #5b6170; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_67">
+      <text style="fill: #5b6170; font: 12px 'AppleGothic'; text-anchor: start" x="462.04675" y="281.508801" transform="rotate(-0 462.04675 281.508801)">4</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#ma14300a762" x="455.04675" y="226.856446" style="fill: #5b6170; stroke: #5b6170; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_68">
+      <text style="fill: #5b6170; font: 12px 'AppleGothic'; text-anchor: start" x="462.04675" y="231.560821" transform="rotate(-0 462.04675 231.560821)">6</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#ma14300a762" x="455.04675" y="176.908467" style="fill: #5b6170; stroke: #5b6170; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_69">
+      <text style="fill: #5b6170; font: 12px 'AppleGothic'; text-anchor: start" x="462.04675" y="181.612842" transform="rotate(-0 462.04675 181.612842)">8</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#ma14300a762" x="455.04675" y="126.960487" style="fill: #5b6170; stroke: #5b6170; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_70">
+      <text style="fill: #5b6170; font: 12px 'AppleGothic'; text-anchor: start" x="462.04675" y="131.664862" transform="rotate(-0 462.04675 131.664862)">10</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#ma14300a762" x="455.04675" y="77.012507" style="fill: #5b6170; stroke: #5b6170; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_71">
+      <text style="fill: #5b6170; font: 12px 'AppleGothic'; text-anchor: start" x="462.04675" y="81.716882" transform="rotate(-0 462.04675 81.716882)">12</text>
+     </g>
+    </g>
+    <g id="text_72">
+     <text style="fill: #5b6170; font: 12px 'AppleGothic'; text-anchor: middle" x="491.7755" y="215.33" transform="rotate(-90 491.7755 215.33)">권당 평균 누적 대출</text>
+    </g>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABUAAAGmCAYAAACTPs/5AAACD0lEQVR4nO1cwY0kQQziLPLP9T7722aToB4ICADZAtt0aTT//v/8CmYcHoCy1wnwe0B6b9qHH/dIKFULpWZLMaf9L6ZSvVh9gp/17IyYUIpp/3vj02b1z0+JnWg0W4pBQqnZUvwe9H/tQqn7RMOPe8CJeqH04ESrWv0LCr1qPnyXlKVU3P4FCYXm9s9PiX2doPp7XzFCfXuXahZKzWN6dkY8uqZMEgrVEwU/rlwo7Um+11L8yt+l1LxPz0+Jep8qJ0sphPT8lMiafXW3j+JK2b1Qzk+J3ShVZ/4vplLNp72WYpJQiHlAVHX7aq6U3Qvl/JTYjdKylBmHB+B8il5LMUko2HF+SuxdSs2WYs4vEL92oVB8o5jT/hdTqebTXktxJ9oOlmcpoXn2iZiFoph/b8CbiVJK++j2qaqFUk77QvHq4ybKDtZPlOykZ2fEhEJMpUqp9F6QcpkfvRNFVe/TszNiQiFGKL1ZfbDj/JTY6lNM+0ipVN1hAsv8vauPQZtfKUJhE1U9UbKTnp0RUZWqWyilVHrd7fNN5kdz+xeU+ZHSPiaUG2dnxITChHKD+zpBsVCIaV/d7SOnUlQLpeobxRyhECOUlqV6K2X3Qjk7I3ajtIXixtkZMZ8qplJ0C4WY2ddCb++S5rKUHSxffVqWcuPsjJhPFVMpuoVCzOxrWap3SbM7S3E+tYPLUnDjSaV/0NoFEZgjF7YAAAAASUVORK5CYII=" id="image9dc9ca4085" transform="scale(1 -1) translate(0 -303.84)" x="439.92" y="-63.36" width="15.12" height="303.84"/>
+   <g id="LineCollection_1"/>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p233941b7a3">
+   <rect x="68.3" y="12.96" width="358.4548" height="404.74"/>
+  </clipPath>
+ </defs>
+</svg>
